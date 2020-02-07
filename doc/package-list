@@ -1,0 +1,11 @@
+com.infotel.webservice
+com.infotel.webservice.config
+com.infotel.webservice.controller
+com.infotel.webservice.error
+com.infotel.webservice.execption
+com.infotel.webservice.interceptor
+com.infotel.webservice.model
+com.infotel.webservice.repository
+com.infotel.webservice.response
+com.infotel.webservice.service
+com.infotel.webservice.utils
